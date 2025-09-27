@@ -3,7 +3,7 @@
 ## 🔥 My Top Repositories (Owner)
 - [java-Travel](https://github.com/hieumous/java-Travel)
 - [php](https://github.com/hieumous/php)
-- [java](https://github.com/hieumous/java)
+
 
 ## 🤝 Projects I Contributed To
 - [trongphuccute/baiKTgiuaky_LtWeb-Degital-Cv-group7-Dltai-CV](https://github.com/trongphuccute/baiKTgiuaky_LtWeb-Degital-Cv-group7-Dltai-CV)
