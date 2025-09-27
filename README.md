@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Hieu
 
-<!--
-**hieumous/hieumous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 My Top Repositories (Owner)
+- [java-Travel](https://github.com/hieumous/java-Travel)
+- [php](https://github.com/hieumous/php)
+- [java](https://github.com/hieumous/java)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Projects I Contributed To
+- [trongphuccute/baiKTgiuaky_LtWeb-Degital-Cv-group7-Dltai-CV](https://github.com/trongphuccute/baiKTgiuaky_LtWeb-Degital-Cv-group7-Dltai-CV)
+- [lequangmy5522/QTDNCNTT-APPOTA](https://github.com/lequangmy5522/QTDNCNTT-APPOTA)
+- [hoainhan256/EMP_Hub](https://github.com/hoainhan256/EMP_Hub)
+- [AcidTSB/EduMatch](https://github.com/AcidTSB/EduMatch)
