@@ -9,7 +9,7 @@
 ## 🚀 About Me
 - 💻 Passionate about **Web Development & Java Applications**
 - 🌱 Currently learning **Spring Boot, PHP, and Mobile Development**
-- 🎯 Goal: Become a **Fullstack Developer**
+- 🎯 Goal: Become a **Backend Developer**
 - ⚡ Fun fact: I enjoy building side projects and contributing to open source
 
 ---
